@@ -1,0 +1,28 @@
+body {
+    overflow-x: hidden;
+    background: black;
+}
+.image-container{
+    margin-left: auto;
+  margin-right: auto;
+}
+
+#js-scene {
+  width: 100%;
+  height: 100vh;
+  /* overflow: hidden; */
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+
+.layer img {
+  position: relative;
+  height: 100vh;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
